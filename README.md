@@ -29,11 +29,12 @@ This repository contains the computational workflow, structural data, and dockin
              ▼
    [Interaction Analysis] ────► 3D Conformation, Hydrogen Bonding & Residue Mapping (PyMOL)
 
+
 ## 👥 Authors & Project Team
 * **Course:** Introduction to Biological Data & Databases (B.Sc. Biotechnology Honors).
 * **Institution:** Chanakya University, Bengaluru
 * **Team Members:**
   * **Sriranjani P.** [GitHub](https://github.com/sriranjani1419) | [ORCID](https://orcid.org/0009-0003-4498-788X)
-  * **[Srushti]**
-  * **[Lahari Raj]**
-  * **[Tenzin]**
+  * **Srushti**
+  * **Lahari Raj**
+  * **Tenzin**
